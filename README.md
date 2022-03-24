@@ -1,2 +1,2 @@
 # translationagency
-Final individual project on the Kodilla course
+The Kodilla course final individual project
